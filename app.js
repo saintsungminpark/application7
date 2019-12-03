@@ -8,8 +8,8 @@ let painting = false;
 let filling = false;
 const INITIAL_COLOR = "black";
 
-canvas.width = 800;
-canvas.height = 500;
+canvas.width = 1000;
+canvas.height = 600;
 
 ctx.strokeStyle = INITIAL_COLOR; // 기본 선 색
 ctx.fillStyle = INITIAL_COLOR; // 기본 채우기 색
