@@ -10,7 +10,7 @@ body {
 }
 
 .canvas {
-    width: 500px;
+    width: 800px;
     height: 500px;
     background-color: white;
     box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.1)
@@ -25,6 +25,10 @@ body {
 
 .controls .controls__range {
     margin-bottom: 30px;
+}
+.controls .controls__range #jsRange {
+    width: 154px;
+    cursor: pointer;
 }
 
 .controls .controls__btns {
@@ -56,10 +60,9 @@ body {
 }
 
 .controls__colors  .controls__color {
-    width: 50px;
-    height: 50px;
+    width: 25px;
+    height: 25px;
     cursor: pointer;
-    margin-right: 5px;
 }
 
 .controls__colors  .controls__color:hover {
