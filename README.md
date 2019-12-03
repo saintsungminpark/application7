@@ -11,8 +11,4 @@ painting board on vanilla js
 ## demo
 [https://saintsungminpark.github.io/application7](https://saintsungminpark.github.io/application7)
 
-mobile                 
-![ex_screenshot](./screenshot1.jpg)
-
-web
 ![ex_screenshot](./screenshot2.jpg)
